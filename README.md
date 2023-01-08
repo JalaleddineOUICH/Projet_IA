@@ -15,7 +15,8 @@ Résultat :
 ![test.png](https://github.com/JalaleddineOUICH/Projet_IA/blob/main/Projet_1/test.png)  
   
   
-## Projet 2 :  
+## Projet 2 :  Jalaleddine OUICH | Elmehdi BAAZIZ
 On dois entrainer un modèle de reconnaissance des mots suivants : Résistance, Microncontrolleur, Bruit de fond.  
 Déploiment du modèle sur une carte Arduino.  
-Utilisez le mécanisme développé pour faire clignoter la led L graduellement à chaque fois qu’on prononce un mot particulier. 
+Utilisez le mécanisme développé pour faire clignoter la led graduellement à chaque fois qu’on prononce un mot particulier. 
+Le projet est upload dans le github de mon collègue.
