@@ -19,4 +19,7 @@ Résultat :
 On dois entrainer un modèle de reconnaissance des mots suivants : Résistance, Microncontrolleur, Bruit de fond.  
 Déploiment du modèle sur une carte Arduino.  
 Utilisez le mécanisme développé pour faire clignoter la led graduellement à chaque fois qu’on prononce un mot particulier. 
-Le projet est upload dans le github de mon camarade : https://github.com/midoyondaime/Projet_AI_Embaque/tree/main/Project_2
+Le projet est upload dans le github de mon camarade : https://github.com/midoyondaime/Projet_AI_Embaque/tree/main/Project_2  
+On a opté à deux méthodesp pour exécuter le programme :  
+-Sur le terminal en uttilisant la commande *edge-impulse-run-impulse*  
+-Sur l'IDE arduino.
