@@ -11,5 +11,5 @@ Vous trouverez dans Projet 1 :
 -le code source IMU_Classifier.ino utilisé pour le test et les questions.  
 
 Résultat :  
-![test.png]
+![test.png](https://github.com/JalaleddineOUICH/Projet_IA/blob/main/test.png)
 
