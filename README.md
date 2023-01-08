@@ -1,6 +1,6 @@
 # Projet_ TinyML
 
-## Projet 1 :
+## Projet 1 : Jalaleddine OUICH
 En se basant sur les étapes du git suivant : https://github.com/walid213/tinyml-workshop
 
 A l'aide de l'accelerometre, j'ai effectué des mouvements qui correspond aux signes yes/no.
@@ -20,6 +20,6 @@ On dois entrainer un modèle de reconnaissance des mots suivants : Résistance, 
 Déploiment du modèle sur une carte Arduino.  
 Utilisez le mécanisme développé pour faire clignoter la led graduellement à chaque fois qu’on prononce un mot particulier. 
 Le projet est upload dans le github de mon camarade : https://github.com/midoyondaime/Projet_AI_Embaque/tree/main/Project_2  
-On a opté à deux méthodesp pour exécuter le programme :  
+En suivant les étapes du [Tutorial](https://docs.edgeimpulse.com/docs/tutorials/responding-to-your-voice), on a opté à deux méthodes pour exécuter le programme :  
 -Sur le terminal en uttilisant la commande *edge-impulse-run-impulse*  
 -Sur l'IDE arduino.
