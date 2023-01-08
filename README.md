@@ -11,5 +11,11 @@ Vous trouverez dans Projet 1 :
 -le code source IMU_Classifier.ino utilisé pour le test et les questions.  
 
 Résultat :  
-![test.png](https://github.com/JalaleddineOUICH/Projet_IA/blob/main/Projet_1/test.png)
-
+  
+![test.png](https://github.com/JalaleddineOUICH/Projet_IA/blob/main/Projet_1/test.png)  
+  
+  
+## Projet 2 :  
+On dois entrainer un modèle de reconnaissance des mots suivants : Résistance, Microncontrolleur, Bruit de fond.  
+Déploiment du modèle sur une carte Arduino.  
+Utilisez le mécanisme développé pour faire clignoter la led L graduellement à chaque fois qu’on prononce un mot particulier. 
