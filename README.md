@@ -1,6 +1,6 @@
-# Projet_ TinyML | Jalaleddine OUICH
+# Projet_ TinyML 
 
-## Projet 1 : 
+## Projet 1 : Jalaleddine OUICH
 En se basant sur les étapes du git suivant : https://github.com/walid213/tinyml-workshop
 
 A l'aide de l'accelerometre, j'ai effectué des mouvements qui correspond aux signes yes/no.
@@ -15,7 +15,7 @@ Résultat :
 ![test.png](https://github.com/JalaleddineOUICH/Projet_IA/blob/main/Projet_1/test.png)  
   
   
-## Projet 2 :  
+## Projet 2 :  Jalaleddine OUICH | Elmehdi BAAZIZ
 Le but c'est d'entrainer un modèle de reconnaissance des mots suivants : Résistance, Microncontrolleur, Bruit de fond.  
 Déploiment du modèle sur une carte Arduino.  
 Utilisez le mécanisme développé pour faire clignoter la led graduellement à chaque fois qu’on prononce un mot particulier.   
