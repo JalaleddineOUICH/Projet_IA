@@ -11,11 +11,6 @@
 
   The circuit:
   - Arduino Nano 33 BLE or Arduino Nano 33 BLE Sense board.
-
-  Created by Don Coleman, Sandeep Mistry
-  Modified by Dominic Pajak, Sandeep Mistry
-
-  This example code is in the public domain.
 */
 
 #include <Arduino_LSM9DS1.h>
