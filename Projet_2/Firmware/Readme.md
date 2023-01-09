@@ -2,20 +2,20 @@
  - Detection de bruit 
 
 
-![alt image](1.png)
+![alt image](1.PNG)
 
 
  - Detection de resistance 
  
  
- ![alt image](2.png)
+ ![alt image](2.PNG)
  
  
  
  - Detection de FPGA 
  
  
- ![alt image](3.png)
+ ![alt image](3.PNG)
  
  
  
@@ -23,4 +23,4 @@
  
  
  
- ![alt image](4.png)
+ ![alt image](4.PNG)
