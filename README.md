@@ -47,6 +47,6 @@ En suivant les étapes de ce [Tutorial](https://gist.github.com/gheesung/eb0076e
 Nous avons modifié model_settings.cpp en changeant kNumChannels à 3 (pour rouge, vert et bleu) et kCategoryCount à 2 dans model_settings.h car nous avons 2 classes.
 
 ### Résultat
-![Image6.PNG](https://github.com/JalaleddineOUICH/Projet_IA/blob/main/Images/Image6.PNG) 
+![Image6.jpg](https://github.com/JalaleddineOUICH/Projet_IA/blob/main/Images/Image6.jpg) 
 
 
