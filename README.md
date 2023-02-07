@@ -26,4 +26,6 @@ En suivant les étapes du [Tutorial](https://docs.edgeimpulse.com/docs/tutorials
 ## Projet Final : Skin Cancer Detection 
 
 L'objectif de ce projet est de réaliser une classification d'images pour la détection du cancer de la peau en utilisant la carte Arduino Nano 33 Sense BLE et un module caméra.  
--> L'aspect le plus crucial du projet est la création de la base de données. Les images de cancer ont été obtenues sur le site Kaggle (https://www.kaggle.com/datasets/nodoubttome/skin-cancer9-classesisic), spécifiquement pour le cancer de la peau appelé "mélanome". La base de données contient deux classes étiquetées "safe_skin" et "cancer_skin".
+L'aspect le plus crucial du projet est la création de la base de données. Les images de cancer ont été obtenues sur le site [Kaggle] (https://www.kaggle.com/datasets/nodoubttome/skin-cancer9-classesisic), spécifiquement pour le cancer de la peau appelé "mélanome". La base de données contient deux classes étiquetées "safe_skin" et "cancer_skin".  
+
+# Choix du modèle
