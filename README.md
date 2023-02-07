@@ -30,23 +30,23 @@ L'aspect le plus crucial du projet est la création de la base de données. Les 
 
 ### 1. Choix du modèle
 Le choix d'un modèle est crucial pour ce projet. Nous devons garder à l'esprit la quantité de RAM qui est accessible avec l'Arduino Nano ble 33. Nous choisirons la famille de modèles MobileNet.  
-![Image1.PNG](https://github.com/JalaleddineOUICH/Projet_IA/blob/main/Images) 
+![Image1.PNG](https://github.com/JalaleddineOUICH/Projet_IA/blob/main/Images/Image1.PNG) 
 ### 2. Entraînement 
 Nous allons entraîner le modèle avec 2 méthodes différentes :  
 #### 2.1. Edge Impulse  
 ##### L'acquisition de données :  
-![Image2.PNG](https://github.com/JalaleddineOUICH/Projet_IA/blob/main/Images)  
+![Image2.PNG](https://github.com/JalaleddineOUICH/Projet_IA/blob/main/Images/Image2.PNG)  
 ##### Impulse :
-![Image3.PNG](https://github.com/JalaleddineOUICH/Projet_IA/blob/main/Images)  
+![Image3.PNG](https://github.com/JalaleddineOUICH/Projet_IA/blob/main/Images/Image3.PNG)  
 ##### Test et déploiement du modèle :
 Nous avons réussi à avoir un modèle relativement solide :  
-![Image4.PNG](https://github.com/JalaleddineOUICH/Projet_IA/blob/main/Images) 
+![Image4.PNG](https://github.com/JalaleddineOUICH/Projet_IA/blob/main/Images/Image4.PNG) 
 #### 2.2. Google Colab
 En suivant les étapes de ce [Tutorial](https://gist.github.com/gheesung/eb0076e040ba53d5be2ad2db1c70cf82) sur google colab, nous obtenons les fichiers suivants après l'entraînement : 
-![Image5.PNG](https://github.com/JalaleddineOUICH/Projet_IA/blob/main/Images) 
+![Image5.PNG](https://github.com/JalaleddineOUICH/Projet_IA/blob/main/Images/Image5.PNG) 
 Nous avons modifié model_settings.cpp en changeant kNumChannels à 3 (pour rouge, vert et bleu) et kCategoryCount à 2 dans model_settings.h car nous avons 2 classes.
 
 ### Résultat
-![Image6.PNG](https://github.com/JalaleddineOUICH/Projet_IA/blob/main/Images) 
+![Image6.PNG](https://github.com/JalaleddineOUICH/Projet_IA/blob/main/Images/Image6.PNG) 
 
 
