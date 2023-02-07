@@ -34,11 +34,11 @@ Le choix d'un modèle est crucial pour ce projet. Nous devons garder à l'esprit
 ### 2. Entraînement 
 Nous allons entraîner le modèle avec 2 méthodes différentes :  
 #### 2.1. Edge Impulse  
-##### L'acquisition de données :  
+#### L'acquisition de données :  
 ![Image2.PNG](https://github.com/JalaleddineOUICH/Projet_IA/blob/main/Images/Image2.PNG)  
-##### Impulse :
+#### Impulse :
 ![Image3.PNG](https://github.com/JalaleddineOUICH/Projet_IA/blob/main/Images/Image3.PNG)  
-##### Test et déploiement du modèle :
+#### Test et déploiement du modèle :
 Nous avons réussi à avoir un modèle relativement solide :  
 ![Image4.PNG](https://github.com/JalaleddineOUICH/Projet_IA/blob/main/Images/Image4.PNG) 
 #### 2.2. Google Colab
